@@ -1,6 +1,6 @@
 👋 **Olá, mundo!**
 
-Meu nome é Karoline, tenho 27 anos e sou desenvolvedora Front-End.
+Meu nome é Karoline, tenho 28 anos e sou desenvolvedora Front-End.
 
  👀 **Sobre mim:** 
 - 📚 Atualmente estou aprendendo _JavaScript_, _HTML_ & _CSS_
